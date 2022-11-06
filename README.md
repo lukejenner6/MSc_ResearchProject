@@ -1,6 +1,7 @@
 # Project Overview: Has Decision Making in Chess Improved Over the Past Century?
-![](www/chess-playing-hand.jpeg)
 This repository contains all files used in my MSc research project. This project sort to act as a preliminary investigation into the optimal methodologies, and to create scalable data pipelines, for use in a larger scientific project.
+
+![](www/chess-playing-hand.jpeg)
 
 The aims of this project were to measure if move selection accuracy had improved within chess players from 1850 to 2020. The chess engine *'Stockfish 15'* was used to evaluate the degree to which each individual move selected by players matched the *'optimal'* move suggested by Stockfish. This 'move accuracy' was then averaged across each player within a game. 
 
