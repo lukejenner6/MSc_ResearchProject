@@ -14,7 +14,7 @@ The working directory should also contain an empty folder titled **'output_data'
 Ensure the **here()** function is set correctly to your working directory, by first restarting R and then setting the working directory to the source file location. 
 
 ## Repository Overview
-*loop.R and and analysis.R are to be run consectutively*
+*loop.R and and analysis.R are to be run consecutively.*
 
 **loop.R:** This is the R code for the data pipeline. It reads in the text files and retrieves the move evaluations from *Stockfish*. It then appends these to the end of a text file in the folder titled **'output_data'**. The file then joins these files back to the input files. This script is scalable to manipulate and process a variety of input files from the chess database.
 
