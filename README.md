@@ -34,7 +34,7 @@ Ensure the **here()** function is set correctly to your working directory, by fi
 Small but significant non-linear changes in decision making over time were revelaed. Contrary to previous studies, decision-making was found to have been increasing in accuracy until 1940, before subsequently decreasing. 
 
 Visualisations of this small non-linear change can be found below. These are taken from the submitted scientific research paper.
-![](www/results_1.1.png)
+![](www/results_2.png)
 
 ## Project Limitations
 There is uncertainty over whether the discrepancy to the previous studies was due to the current sample’s lower skill level, as interactions between Elo-rating and time revealed conflicting results on whether lower skilled players in the sample experienced stronger decline in decision-making. It is suggested these results are better explained by methodological limitations in the measurement of decision-making as the Stockfish software may have erronously not 'banked' a points reduction until the other player had capitalised on that move. Therefore, future research should instead focus on the variance of Stockfish evaluation scores within a given game whereby high fluctuations would suggest a higher degree of mistakes were made from the two players in that game.
