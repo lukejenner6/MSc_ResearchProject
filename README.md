@@ -4,7 +4,7 @@ This repository contains all files used in my MSc research project. This project
 
 12,000 games were randomly sampled from ChessBase's Mega Database 2022 [link here](https://shop.chessbase.com/en/products/mega_database_2022). 
 
-This data was then analysed using a GAM (generalised additive model) to investigate the presumed non-linear relationship between **year** the game was played and **'move accuracy'**, whilst controlling for **Elo-rating** (a player's current proffessional standing).
+This data was then analysed using a GAM (generalised additive model) to investigate the presumed non-linear relationship between **year** the game was played and **'move accuracy'**, whilst controlling for **Elo-rating** (a player's current proffessional standing). GAMs sit somewhere between traditional linear models and 'black box' machine learning models. GAMs allow for the non-linear modelling of complex data, whilst still maintaining some transparency to the underlying algorithms and explainability of results. A comprehensive explanation of GAMs can be found in this Towards Data Science article [linke here](https://towardsdatascience.com/generalised-additive-models-6dfbedf1350a).
 
 ## Important Information before Running the Code
 The working directory should include all the files and folders in the current repository format. The data pipeline requires heavy computational processing and time to complete, so is not recommended to perform. This repository's main purpose is to act as an exemplar for the steps taken in the project. 
