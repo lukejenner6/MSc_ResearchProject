@@ -3,7 +3,7 @@ This repository contains all files used in my MSc research project. This project
 
 ![](www/chess-playing-hand.jpeg)
 
-The aims of this project were to measure if move selection accuracy had improved within chess players from 1850 to 2020. The chess engine *'Stockfish 15'* was used to evaluate the degree to which each individual move selected by players matched the *'optimal'* move suggested by Stockfish. This 'move accuracy' was then averaged across each player within a game. 
+The aims of this project were to measure if move selection accuracy had improved within chess players from 1850 to 2000. The chess engine *'Stockfish 15'* was used to evaluate the degree to which each individual move selected by players matched the *'optimal'* move suggested by Stockfish. This 'move accuracy' was then averaged across each player within a game. 
 
 12,000 games were randomly sampled from ChessBase's Mega Database 2022 [(link here)](https://shop.chessbase.com/en/products/mega_database_2022). 
 
