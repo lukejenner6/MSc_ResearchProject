@@ -15,10 +15,12 @@ The working directory should also contain an empty folder titled **'output_data'
 Ensure the **here()** function is set correctly to your working directory, by first restarting R and then setting the working directory to the source file location. 
 
 ## Repository Overview
-**input_data:** The data that is fed into the data pipeline. These are text files containing information on a given chess game.
+*loop.R and and analysis.R are to be run consectutively*
 
-**loop.R:** This is the R code for the data pipeline. It reads in the text files and retrieves the move evaluations from *Stockfish*. It then appends these to the end of a text file in the folder titled **'output_data'**. The file then joins these files back to the input files.
+**loop.R:** This is the R code for the data pipeline. It reads in the text files and retrieves the move evaluations from *Stockfish*. It then appends these to the end of a text file in the folder titled **'output_data'**. The file then joins these files back to the input files. This script is scalable to manipulate and process a variety of input files from the chess database.
 
-**analysis.R:** This R script cleans the data in preparation for analysis and then formulates the GAM. 
+**analysis.R:** This R script cleans the mined data in preparation for analysis and then formulates the GAM. 
+
+**input_data:** The data that is fed into the data pipeline through the loop.R script. These are text files containing information on a given chess game.
 
 **stockfish_15_x64_avx2.exe:** This is the Stockfish 15 software. A terminal is created between this and R.
