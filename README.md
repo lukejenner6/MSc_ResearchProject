@@ -36,6 +36,7 @@ Small but significant non-linear changes in decision making over time were revel
 Visualisations of this small non-linear change can be found below. These are taken from the submitted scientific research paper.
 
 ![](www/results_11.png)
+
 ![](www/results_13.png)
 
 Interestingly the variation in the average points gained per move has decreased over time, suggesting modern players may have a more standardised, similar way of playing across games.
@@ -47,6 +48,7 @@ Interestingly the variation in the average points gained per move has decreased 
 There is uncertainty over whether the discrepancy to the previous studies was due to the current sample’s lower skill level, as interactions between Elo-rating and time revealed conflicting results on whether lower skilled players in the sample experienced stronger decline in decision-making. These results are visualised below.
 
 ![](www/results_21.png)
+
 ![](www/results22.png)
 
 
