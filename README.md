@@ -47,7 +47,7 @@ Interestingly the variation in the average points gained per move has decreased 
 There is uncertainty over whether the discrepancy to the previous studies was due to the current sample’s lower skill level, as interactions between Elo-rating and time revealed conflicting results on whether lower skilled players in the sample experienced stronger decline in decision-making. These results are visualised below.
 
 ![](www/results_21.png)
-![](www/results_22.png)
+![](www/results22.png)
 
 
 It is suggested these results are better explained by methodological limitations in the measurement of decision-making as the Stockfish software may have erronously not 'banked' a points reduction until the other player had capitalised on that move. Therefore, future research should instead focus on the variance of Stockfish evaluation scores within a given game whereby high fluctuations would suggest a higher degree of mistakes were made from the two players in that game.
