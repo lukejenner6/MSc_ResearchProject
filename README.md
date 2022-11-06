@@ -45,7 +45,9 @@ Interestingly the variation in the average points gained per move has decreased 
 
 
 ## Project Limitations
-There is uncertainty over whether the discrepancy to the previous studies was due to the current sample’s lower skill level, as interactions between Elo-rating and time revealed conflicting results on whether lower skilled players in the sample experienced stronger decline in decision-making. These results are visualised below.
+There is uncertainty over whether the discrepancy to the previous studies was due to the current sample’s lower skill level, as interactions between Elo-rating and time revealed conflicting results on whether lower skilled players in the sample experienced stronger decline in decision-making. 
+
+These results are visualised below as screenshots of the graphs submitted in the final paper. Graph B's legend shows blue has highly ranked players, green as moderatly ranked players and red as lowly ranked players, according to arbitary groups used simply for illustrative purposes.
 
 ![](www/results_21.png)
 
