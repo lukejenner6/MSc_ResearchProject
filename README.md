@@ -13,7 +13,7 @@ This data was then analysed using a GAM (generalised additive model) to investig
 Whilst Stockfish can effectively play chess games to an exceptional standard, it is also able to evaluate current board states, by using points to indicate which player currently holds advantage. The evaluation posits that if each player plays perfectly from then on, the current player ahead will remain so by the current points margin, until eventually winning the game.  This means mistakes are the only way to lose points. Therefore, this project measured decision-making accuracy by the average degree each player’s evaluated points advantage decreased after selecting a move. This provided a continuous performance measure that uses the exact same objective benchmark, regardless of period, age, or birth cohort of the player.
 
 ## Important Information before Running the Code
-The working directory should include all the files and folders in the current repository format. The data pipeline requires heavy computational processing and time to complete, so is not recommended to perform. This repository's main purpose is to act as an exemplar for the steps taken in the project. 
+The working directory should include all the files and folders in the current repository format. The data pipeline requires heavy computational processing and time to complete, so is not recommended to perform on a personal laptop. This repository's main purpose is to act as an exemplar for the steps taken in the project. 
 
 The working directory should also contain an empty folder titled **'output_data'**. This will be where the output files of the data pipeline are stored.
 
